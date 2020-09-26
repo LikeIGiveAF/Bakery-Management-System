@@ -1,0 +1,58 @@
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\bin\Debug\Bakery Management System.exe.config
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\bin\Debug\Bakery Management System.exe
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\bin\Debug\Bakery Management System.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery Management System.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery_Management_System.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery_Management_System.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery Management System.csproj.GenerateResource.cache
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery Management System.exe
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery Management System.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\bin\Debug\Database.mdf
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\bin\Debug\Database_log.ldf
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery_Management_System.HomePage.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery_Management_System.Cakes_UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery_Management_System.OrderPage.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\Bakery Management System\obj\Debug\Bakery_Management_System.PaymentPage.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\bin\Debug\Database.mdf
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\bin\Debug\Database_log.ldf
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\bin\Debug\Bakery Management System.exe.config
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\bin\Debug\Bakery Management System.exe
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\bin\Debug\Bakery Management System.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery Management System.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.Cakes_UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.Cookies__UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.HomePage.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.OrderPage.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.PaymentPage.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery Management System.csproj.GenerateResource.cache
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery Management System.exe
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery Management System.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.Donuts_UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.Breads_UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.Others_UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project1\Bakery Management System\versions\Bakery Management System 2\obj\Debug\Bakery_Management_System.SignUp.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\bin\Debug\Database.mdf
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\bin\Debug\Database_log.ldf
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\bin\Debug\Bakery Management System.exe.config
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\bin\Debug\Bakery Management System.exe
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\bin\Debug\Bakery Management System.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery Management System.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.Breads_UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.Cakes_UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.Cookies__UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.Donuts_UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.HomePage.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.OrderPage.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.Others_UserControl.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.PaymentPage.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery_Management_System.SignUp.resources
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery Management System.csproj.GenerateResource.cache
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery Management System.exe
+C:\Users\acer\Documents\Visual Studio 2017\Project\Bakery Management System\obj\Debug\Bakery Management System.pdb
